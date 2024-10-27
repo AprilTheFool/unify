@@ -1,12 +1,15 @@
 <p align="center">
   <img height="128" src="./logo_small.png"></img>
-  <h1 align="center">Unify</h1>
+  <h3 align="center">Unify</h3>
 </p>
+<hr>
 
-Simple dark monochrome theme with bright text and minimal borders.
+<p align="center">Simple dark monochrome theme with bright text and minimal borders.</p>
+
+<hr>
 
 ## Preview:
-
+<img src="./preview.png"></img>
 
 ## License
 
