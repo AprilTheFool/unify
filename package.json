@@ -1,0 +1,24 @@
+{
+  "name": "unify",
+  "displayName": "Unify",
+  "description": "Simple dark monochrome theme with bright text and minimal borders.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""},
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unify Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Unify Dark-color-theme.json"
+      }
+    ]
+  }
+}
